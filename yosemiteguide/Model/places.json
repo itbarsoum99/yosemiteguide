@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Tunnel View",
+        "category": "Vistas",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "The Tunnel View scenic overlook is a historic site, located adjacent to Wawona Road, affording expansive views of Yosemite Valley, El Capitan, Bridalveil Falls, and Half Dome. The overlook was constructed during an era that heralded a boom in design and development throughout the National Park Service, and helped initiate the National Park Service “rustic design style.” Wawona Tunnel and Tunnel View were determined eligible for listing on the National Register of Historic Places in 1986 because of their exemplary design.",
+        "imageName": "tunnelview"
+    },
+    {
+        "name": "Half Dome",
+        "category": "Mountains",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Half Dome is a granite dome at the eastern end of Yosemite Valley in Yosemite National Park, California. It is a well-known rock formation in the park, named for its distinct shape. One side is a sheer face while the other three sides are smooth and round, making it appear like a dome cut in half. The granite crest rises more than 4,737 ft (1,444 m) above the valley floor. As late as the 1870s, Half Dome was described as 'perfectly inaccessible' by Josiah Whitney of the California Geological Survey. The summit was finally reached by George G. Anderson in October 1875, via a route constructed by drilling and placing iron eyebolts into the smooth granite.",
+        "imageName": "halfdome"
+    },
+    {
+        "name": "Mariposa Grove",
+        "category": "Meadows",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Mariposa Grove is a sequoia grove located near Wawona, California, United States, in the southernmost part of Yosemite National Park. It is the largest grove of giant sequoias in the park, with several hundred mature examples of the tree. Two of its trees are among the 30 largest giant sequoias in the world. The grove closed on July 6, 2015, for a restoration project and reopened on June 15, 2018. The Mariposa Grove was first visited by non-natives in 1857 when Galen Clark and Milton Mann found it. They named the grove after Mariposa County, California, where the grove is located.",
+        "imageName": "mariposagrove"
+    },
+    {
+        "name": "Yosemite Falls",
+        "category": "Waterfalls",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "Yosemite Falls is the highest waterfall in Yosemite National Park, dropping a total of 2,425 feet (739 m) from the top of the upper fall to the base of the lower fall. Located in the Sierra Nevada of California, it is a major attraction in the park, especially in late spring when the water flow is at its peak. The falls consist of three sections: Upper Yosemite Fall, the Middle Cascades, and Lower Yosemite Fall. In all but the wettest years, the falls cease flowing altogether in late summer or fall. A very small number of rock climbers have taken the opportunity to climb the normally inaccessible rock face beneath the falls, although this is an extraordinarily dangerous undertaking; a single afternoon thunderstorm could restart the falls, sweeping the climbers off the face.",
+        "imageName": "yosemitefalls"
+    },
+    {
+        "name": "Vernal Fall",
+        "category": "Waterfalls",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Vernal Fall is a 317-foot (96.6 m) waterfall on the Merced River just downstream of Nevada Fall in Yosemite National Park, California. Like its upstream neighbor, Vernal Fall is clearly visible at a distance, from Glacier Point, as well as close up, along the Mist Trail. The waterfall flows all year long, although by the end of summer it is substantially reduced in volume and can split into multiple strands, rather than a single curtain of water. Swimming above Vernal Fall carries a great deal of risk: the rocks are slippery, the river has strong undercurrents that may not be visible from the surface, and tourists have been swept over the fall to their deaths. Though swimming there is illegal and warnings to stay out of the water are clearly posted, several deaths have occurred when visitors entered the water above the fall in the vicinity of the Silver Apron and Emerald Pool.",
+        "imageName": "vernalfall"
+    },
+    {
+        "name": "Glacier Point",
+        "category": "Vistas",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "description": "Glacier Point is a viewpoint above Yosemite Valley in the U.S. state of California. It is located on the south wall of Yosemite Valley at an elevation of 7,214 feet (2,199 m), 3,200 feet (980 m) above Curry Village. The point offers a superb view of several of Yosemite National Park's well-known landmarks, including Yosemite Valley, Yosemite Falls, Half Dome, Vernal Fall, Nevada Fall, and Clouds Rest. Between 1872 and 1968, it was the site of the Yosemite Firefall. Glacier Point can be reached from the Valley via Glacier Point Road. During the summer, Glacier Point is often crowded with tourists. Tours by bus are also available and take about four hours. The road is usually open from June through October. In winter, Glacier Point Road closes due to snow, and access to Glacier Point from the Badger Pass Ski Area is only by ski or snowshoe.",
+        "imageName": "glacierpoint"
+    },
+    {
+        "name": "El Capitan",
+        "category": "Mountains",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "El Capitan (Spanish: El Capitán; The Captain or The Chief) is a vertical rock formation in Yosemite National Park, located on the north side of Yosemite Valley, near its western end. The granite monolith is about 3,000 feet (914 m) from base to summit along its tallest face and is a popular objective for rock climbers. El Capitan is composed almost entirely of a pale, coarse-grained granite approximately 100 MYA (million years old). In addition to El Capitan, this granite forms most of the rock features of the western portions of Yosemite Valley. A separate intrusion of igneous rock, the Taft Granite, forms the uppermost portions of the cliff face.",
+        "imageName": "elcapitan"
+    },
+    {
+        "name": "Tuolumne Meadows",
+        "category": "Meadows",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Tuolumne Meadows is a gentle, dome-studded, sub-alpine meadow area along the Tuolumne River in the eastern section of Yosemite National Park in the United States. Its approximate elevation is 8,619 feet (2,627 m). The term Tuolumne Meadows is also often used to describe a large portion of the Yosemite high country around the meadows, especially in context of rock climbing. The meadow vegetation is supported by shallow groundwater. The water comes from 1,000 mm (39 inches) of precipitation annually, predominately in the form of snow. Water arises from snowmelt and hill-slope aquifers, and flows through the Tuolumne River, Budd Creek, Delaney Creek, and Unicorn Creek. In spring, as soon as the snow melts, it is not uncommon to see large areas of the meadows flooded and practically transformed into lakes.",
+        "imageName": "tuolumne"
+    }
+]
